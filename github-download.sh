@@ -1,0 +1,1 @@
+ENDPOINT="https://api.github.com/repos/khejo/voice-assets-source/releases"
